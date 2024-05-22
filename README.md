@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=90ee90&text=BEM%20VINDO!!&fontAlign=50&fontSize=30&fontAlignY=30" />
-
 <div style="display: inline_block"><br>
   <img align="center" alt="brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="brenda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
