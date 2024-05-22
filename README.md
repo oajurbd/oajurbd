@@ -10,7 +10,7 @@
 </div>
 <br>
 
-<img align="right" width="50%" style="display: flex_block" src="https://github.com/oajurbd/site-/blob/main/imagem.gif" alt="Imagem">
+<img align="right" width="40%" src="https://github.com/oajurbd/site-/blob/main/imagem.gif" alt="Imagem">
 
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oajurbd&show_icons=true&theme=gotham&count_private=true&layout=compact" />
